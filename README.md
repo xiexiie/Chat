@@ -89,10 +89,3 @@ git pull https://gitee.com/xzlmk/spring_boot_vue_chat.git
   >增加接口的讲解
 - 2019-12-16
   >聊天小Demo上线
-
-#### 7、打赏
-
-此聊天项目，制作不易，如果对您有帮助，可以请作者喝杯咖啡，金额不限![ha](http://xzjsbk.toptech.top/ha_1583154579801.png)，
-另外亲，互加友链吗？我的博客网站：[理木客](https://toptech.top)
-
-![zfb+wx](http://xzjsbk.toptech.top/zfb+wx_1582273633551.png)
